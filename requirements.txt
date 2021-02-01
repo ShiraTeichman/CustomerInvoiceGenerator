@@ -1,0 +1,12 @@
+Babel==2.9.0
+colorama==0.4.4
+et-xmlfile==1.0.1
+InvoiceGenerator==1.1.0
+jdcal==1.4.1
+openpyxl==3.0.6
+Pillow==8.1.0
+pytz==2021.1
+qrcode==6.1
+qrplatba==0.3.4
+reportlab==3.5.59
+six==1.15.0
